@@ -10,6 +10,6 @@
 
 ---
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=VictorHFBellini&theme=gothan&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHFBellini&bg_color=0d1117&color=10fbd4&line=1e2c4d&point=10fbd4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
