@@ -15,7 +15,7 @@
 ---
 
 <div>
-<img align="right" src="https://i.pinimg.com/originals/3a/c2/74/3ac274ae7d692986448dda2970008fdd.gif" width=250 height=270/>
+<img align="right" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width=250 height=270/>
 
 ### Estudando no Momento:
 
