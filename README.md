@@ -13,3 +13,17 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHFBellini&bg_color=0d1117&color=10fbd4&line=1e2c4d&point=10fbd4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+<img src="https://cutewallpaper.org/28/comfy-pixel-wallpaper-gif/artstation-working-space.gif" width=100% height=300/>
+
+<div align="center">
+  <p align="center">
+    <b>Visitors Count<b/>
+  </p>
+      
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{VictorHFBellini}/count.svg" />
+  </p>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e2c4d&height=120&section=footer"/>
