@@ -23,10 +23,6 @@
  ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
  ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=%23646CFF)&nbsp;
  ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
-  
-### Studying in this moment:
- ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
- ![PHP](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=%23777BB4)&nbsp;
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
