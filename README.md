@@ -17,11 +17,10 @@
  
 ### Frameworks and Libraries:
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
- ![Express.js](https://img.shields.io/badge/express.js-0D1117?style=for-the-badge&logo=express&logoColor=%23404d59)&nbsp;
- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
- ![Nodemon](https://img.shields.io/badge/NODEMON-0D1117?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)&nbsp;
- ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
  ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=%23646CFF)&nbsp;
+ ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
+ ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![Express.js](https://img.shields.io/badge/express.js-0D1117?style=for-the-badge&logo=express&logoColor=%23404d59)&nbsp;
  ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
 
 <div align="center">
