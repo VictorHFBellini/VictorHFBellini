@@ -1,4 +1,1 @@
-### Studying at the moment:
-<p align="left" >
-    <img src="https://skillicons.dev/icons?i=js,cs" />
-</p>
+EM BREVE EU TERMINO DE CRIAR MEU "PORTIFOLIO" AQUI DO GIT
