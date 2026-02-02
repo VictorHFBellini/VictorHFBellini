@@ -1,3 +1,3 @@
-Em desenvolvimento...
+Começando do Zero até eu me tornar uma programador Pleno
 
-Estudando programação do zero até eu conseguir virar pleno.
+Foco em ser Dev backEnd por enquanto, e futuramente me tornar fullstack
